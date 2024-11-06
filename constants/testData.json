@@ -1,0 +1,26 @@
+{
+  "at": {
+    "url": "https://www.ab-in-den-urlaub.at/",
+    "URLValidation": "https://www.ab-in-den-urlaub.at/",
+    "Email": "ass@kk.com",
+    "Password": "1",
+    "InvalidEmailMsg": "Bitte überprüfe deine E-Mail.",
+    "InvalidPassMsg": "Bitte überprüfe dein Passwort.",
+    "Destination": "Egypt",
+    "StartDate":"2025-06-01",
+    "EndDate":"2025-06-03",
+
+    "PackageDetailPage": "https://www.ab-in-den-urlaub.at/find/hotel/409249-giata/offers?destinationId=destination-tr-tuerkische-riviera&dateMin=2025-06-01&dateMax=2025-09-01&airports=GRZ&rooms=A%2CA&durationMin=7&durationMax=7&travelType=packageTour"
+  },
+  "ch": {
+    "url": "https://www.ab-in-den-urlaub.ch/",
+    "URLValidation": "https://www.ab-in-den-urlaub.ch/",
+    "Email": "ass@kk.com",
+    "Password": "1",
+    "InvalidEmailMsg": "Bitte überprüfe deine E-Mail.",
+    "InvalidPassMsg": "Bitte überprüfe dein Passwort.",
+    "Destination": "Egypt",
+    "StartDate":"2025-06-01",
+    "EndDate":"2025-06-03"
+  }
+}
